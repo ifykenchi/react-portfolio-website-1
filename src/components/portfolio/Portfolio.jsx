@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/Bootcamp website.PNG'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
@@ -11,9 +11,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'This is a sample frontend bootcamp website',
+    github: 'https://github.com/ifykenchi/Frontend-Bootcamp',
+    demo: 'https://github.com/ifykenchi/Frontend-Bootcamp'
   },
   {
     id: 2,
