@@ -13,7 +13,7 @@ const data = [
     image: IMG1,
     title: 'This is a sample frontend bootcamp website',
     github: 'https://github.com/ifykenchi/Frontend-Bootcamp',
-    demo: 'https://github.com/ifykenchi/Frontend-Bootcamp'
+    demo: 'https://bootcamp.ifykenchi.com.ng'
   },
   {
     id: 2,
