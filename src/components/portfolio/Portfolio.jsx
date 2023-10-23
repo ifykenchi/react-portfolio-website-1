@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/Bootcamp website.PNG'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG2 from '../../assets/vawulens.PNG'
+import IMG3 from '../../assets/Music-player.PNG'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -11,44 +11,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'This is a sample frontend bootcamp website',
+    title: 'Simple frontend bootcamp website with html and css',
     github: 'https://github.com/ifykenchi/Frontend-Bootcamp',
-    demo: 'https://bootcamp.ifykenchi.com.ng'
+    demo: 'http://bootcamp.ifykenchi.com.ng'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'ReactJS gym website',
+    github: 'https://github.com/ifykenchi/gym-website-react',
+    demo: 'http://vawulens.ifykenchi.com.ng'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Simple Music player using vanilla javascript',
+    github: 'https://github.com/ifykenchi/JS-Music-Player',
+    demo: 'https://music-player.ifykenchi.com.ng/'
   },
 ];
 
